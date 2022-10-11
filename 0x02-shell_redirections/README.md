@@ -1,1 +1,1 @@
-Readme.md for the 0x02 shell redirections
+readme for the alx 0x02-shell_redirections task
